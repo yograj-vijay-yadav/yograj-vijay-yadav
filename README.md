@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yograj Vijay Yadav</h1>
 
 <p align="center">
-🎓 2nd Year Engineering Student <br>
+🎓 3rd Year Engineering Student <br>
 💻 MERN Stack Developer | 🧠 DSA Enthusiast | 💡 Lifelong Learner <br>
 </p>
 
