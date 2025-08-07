@@ -32,7 +32,6 @@
 - 📘 Learning: TypeScript, System Design basics
 - 🤝 Looking to collaborate on: **Open source MERN projects, mini apps**
 - 📌 Ask me about: Node.js, MongoDB, C++, DSA patterns, Express.js
-- 🎯 Fun fact: I enjoy solving bugs more than creating features 🐛
 
 ---
 
@@ -80,7 +79,7 @@
 
 ## 📌 Pinned Projects
 
-[🎓 LMS App](https://github.com/yograj-vijay-yadav/lms-project) — Full-stack MERN app with JWT, Cloudinary, Multer  
+[🎓 LMS App](https://github.com/yograj-vijay-yadav/Learning-Management-System) — Full-stack MERN app with JWT, Cloudinary, Multer  
 [🧩 Pokedex App](https://github.com/yograj-vijay-yadav/Pokedex-Project-React) — React + API integration + Custom Hooks
 
 ---
