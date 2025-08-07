@@ -12,9 +12,8 @@
 - 🌱 I’m currently learning: **Redux, TypeScript, and Advanced DSA**
 - 💻 I love building: **Full-stack web applications with MERN**
 - 🏆 Solved **110+ DSA problems** on LeetCode
-- 🎯 Currently focused on: **Off-campus placements & MERN Projects**
 - 🗃️ Tech I'm confident with: **MongoDB, Express, React, Node.js, C++, SQL**
-- 📫 How to reach me: `your.email@example.com`
+- 📫 How to reach me: `yograjyadav2004@gmail.com`
 
 ---
 
