@@ -74,12 +74,13 @@ Bachelor of Engineering in Information Technology
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yograj-vijay-yadav&show_icons=true&theme=tokyonight" alt="Yograj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yograj-vijay-yadav&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Yograj's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj-vijay-yadav&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj-vijay-yadav&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+
 
 ---
 
