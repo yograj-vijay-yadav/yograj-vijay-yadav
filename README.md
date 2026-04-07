@@ -18,8 +18,8 @@
 
 ## 🧠 What I’m Up To
 
-- 🚀 Currently working on: **Frontend of LMS & Redux integration**
-- 📘 Learning: TypeScript, System Design basics
+- 🚀 Currently working on: **High Level design**
+- 📘 Learning: TypeScript,Next js,Langchain
 - 🤝 Looking to collaborate on: **Open source MERN projects, mini apps**
 - 📌 Ask me about: Node.js, MongoDB, C++, DSA patterns, Express.js
 
@@ -27,31 +27,47 @@
 
 ## 💻 Tech Stack
 
-### 🧠 Languages & Core  
+### 🧠 Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 
-### 🌐 Frontend  
+### ⚛️ Frameworks  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 🔙 Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js)
+
+### 🗃️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks)
 
-### 🔐 Auth & APIs  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+### 🏗️ System Design  
+- Low Level Design (LLD)  
+- High Level Design (HLD)
 
-### 🛠️ Tools  
+### 🛠️ Tools & Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+
+---
+
+## 🎓 Education
+
+**PES Modern College of Engineering, Pune**  
+Bachelor of Engineering in Information Technology  
+*Nov 2023 – June 2027*  
+**CGPA:** 8.23 / 10  
 
 ---
 
