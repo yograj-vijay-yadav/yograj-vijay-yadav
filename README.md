@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yograj Vijay Yadav</h1>
 
 <p align="center">
-  🎓 3rd Year IT Engineering Student @ PES Modern College, Pune <br>
-  💻 MERN Stack Developer | 🧠 DSA Enthusiast | 🤖 AI/ML Explorer | 💡 Lifelong Learner
+  🎓 4th Year IT Engineering Student @ PES Modern College, Pune <br>
+  💻 MERN Stack Developer | 🤖 GenAI / RAG Builder | 🧩 System Design (LLD/HLD) Enthusiast | 🧠 DSA Practitioner
 </p>
 
 <p align="center">
@@ -14,9 +14,10 @@
 
 ## ✨ About Me
 
-- 🌱 I'm currently learning: **Redux, TypeScript, LangChain, and Advanced DSA**
-- 💻 I love building: **Full-stack web applications with MERN stack**
-- 🗃️ Tech I'm confident with: **MongoDB, Express, React, Node.js, C++, SQL, Python**
+- 🌱 Currently learning: **Next.js & TypeScript** (fundamentals covered, now going deeper), **LangGraph**, **Advanced System Design**
+- 💻 I love building: **Full-stack MERN apps with GenAI/RAG features baked in**
+- 🗃️ Tech I'm confident with: **MongoDB, Express, React, Node.js, C++, SQL, Python, LangChain**
+- 🧩 What I genuinely love: **Low-Level Design (LLD) and High-Level Design (HLD)** — breaking systems down and designing them from scratch
 - 📫 How to reach me: `yograjyadav2004@gmail.com`
 - ⚡ Fun fact: **I taught Physics for a year while mastering coding!**
 
@@ -24,10 +25,10 @@
 
 ## 🧠 What I'm Up To
 
-- 🚀 Currently working on: **High Level Design & System Architecture**
-- 📘 Learning: **TypeScript, Next.js, LangChain, Pinecone**
-- 🤝 Looking to collaborate on: **Open source MERN projects, AI-powered applications**
-- 📌 Ask me about: **Node.js, MongoDB, C++, DSA patterns, Express.js, System Design**
+- 🚀 Currently working on: **High-Level & Low-Level System Design, and GenAI-powered features**
+- 📘 Learning: **TypeScript, Next.js (post-basics), LangGraph, Advanced DSA**
+- 🤝 Looking to collaborate on: **Open source MERN + GenAI projects**
+- 📌 Ask me about: **Node.js, MongoDB, RAG/LangChain, System Design (LLD/HLD), DSA patterns, Express.js**
 
 ---
 
@@ -35,7 +36,7 @@
 
 | Degree | Institution | Duration | CGPA |
 |--------|------------|----------|------|
-| **B.E. Information Technology** | PES Modern College of Engineering, Pune | Nov 2023 – June 2027 | **8.23 / 10** |
+| **B.E. Information Technology** | PES Modern College of Engineering, Pune | Nov 2023 – June 2027 | **8.56 / 10** |
 
 ---
 
@@ -60,60 +61,64 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00BFFF?style=for-the-badge&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-FFC107?style=for-the-badge&logo=pinecone&logoColor=black)
 
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 AI & ML
+### 🤖 GenAI / AI-ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🧩 System Design
+![LLD](https://img.shields.io/badge/Low--Level%20Design-6f42c1?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![HLD](https://img.shields.io/badge/High--Level%20Design-6f42c1?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+> I genuinely enjoy System Design — thinking through scalability, database schemas, API contracts (HLD) and then class-level structure, design patterns, and modularity (LLD).
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🎓 SimpliLearn - Learning Management System](https://github.com/yograj-vijay-yadav/Learning-Management-System)
-*Nov 2025*
-> Production-ready LMS with secure RESTful APIs for user, course, and subscription management
+### [🎓 SimpliLearn — AI-Powered Learning Management System](https://github.com/yograj-vijay-yadav/Learning-Management-System)
+*Aug 2025*
+> Full-stack LMS with a GenAI RAG chatbot for course-related Q&A
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary, JWT
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay, LangChain, Pinecone, Redis, BullMQ
 
 **Key Features:**
-- ✅ JWT-based authentication with role-based access control (RBAC)
-- ✅ Razorpay payment gateway integration for subscriptions
-- ✅ Cloudinary media uploads for course content
-- ✅ Centralized error handling & reusable middleware
-- ✅ Secure protected routes & API rate limiting
+- ✅ JWT authentication with role-based access control (RBAC) and 20+ REST APIs for users, courses, subscriptions & progress
+- 💳 Razorpay integration for subscription-based course access
+- 🖼️ Cloudinary + Multer for image/video upload and storage workflows
+- 🤖 Event-based AI-powered RAG chatbot (LangChain + Pinecone) answering questions using retrieved course content
+- ⚡ BullMQ + Redis for async video processing, email notifications, and RAG document ingestion
+- 🚀 Redis caching for frequently accessed app & AI data, plus centralized error handling and reusable middleware
 
 ---
 
-### [💻 CodeConnect - Real-time Coding Platform](https://github.com/yograj-vijay-yadav/CodeConnect)
-*April 2026*
-> Real-time collaborative coding platform with AI-powered assistance
+### [💻 CodeConnect — Real-Time Collaborative Coding Platform](https://codeconnect-chi.vercel.app)
+*Dec 2025*
+> Real-time collaborative coding platform with AI-assisted debugging
 
-**Tech Stack:** React.js, WebSockets, MongoDB, Python, LangChain
+**Tech Stack:** React.js, WebSockets (Socket.io), MongoDB, Python
 
 **Key Features:**
-- 🔄 Real-time code synchronization supporting 30+ concurrent users per room
-- 🤖 AI-powered code assistant for error detection & suggestions
-- 🔌 WebSocket-based real-time communication
-- 🎨 Multiple language support & syntax highlighting
-- 💾 Persistent code storage & version history
+- 🔄 Real-time multi-user code sync for up to 30 concurrent participants per room
+- 🔌 Socket.io-based real-time communication for code change synchronization
+- 🤖 AI-assisted coding workflow for error detection and contextual suggestions
+- 🧱 Reusable backend modules with event-driven communication for maintainable real-time interactions
 
 ---
 
@@ -127,24 +132,21 @@
 ## 💼 Experience
 
 ### Physics Instructor
-**Suprabhat Learning Centre** | *Oct 2024 – Oct 2025*
+**Suprabhat Learning Centre, Pune** | *Oct 2024 – Oct 2025*
 
-- 🎯 Strengthened analytical and problem-solving skills by teaching conceptual physics problems
-- 🧠 Applied structured and logical reasoning to simplify complex topics into step-by-step explanations
-- 🗣️ Improved communication skills through clear delivery of technical concepts
-- ⏰ Demonstrated discipline, accountability, and effective time management while working independently
+- 🎯 Taught physics to 50+ students, building structured approaches to problem solving and technical explanation
+- 🧠 Broke down complex concepts into step-by-step explanations, strengthening analytical reasoning
+- 🗣️ Mentored students individually and maintained consistent communication to support their learning progress
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
-| Certification | Platform | Duration | Key Topics |
-|---------------|----------|----------|-------------|
-| **C++ Programming** | Udemy | 30 hrs | OOP, STL, Templates, Memory Management |
-| **React - Complete Guide** | Udemy | 10 hrs | Components, Hooks, Routing, State Management |
-| **DevOps Beginner to Advanced** | Udemy | 50 hrs | CI/CD, Docker, Jenkins, Kubernetes |
-| **Python Bootcamp** | Udemy | 10 hrs | Data Structures, Pandas, NumPy |
-| **SQL Masterclass** | Udemy | 4 hrs | Queries, Joins, Database Management |
+| Certification / Achievement | Source | Details |
+|---|---|---|
+| **DSA in C++** | LeetCode | Solved 200+ problems — arrays, trees, graphs, recursion, DP |
+| **Python Programming** | Scaler (10 hrs) | Core Python concepts & problem solving |
+| **React.js** | Scaler (10 hrs) | Components, Hooks, Context API, routing |
 
 ---
 
@@ -211,7 +213,7 @@
 | Platform | Link |
 |----------|------|
 | 📧 Email | yograjyadav2004@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/yograj-yadav-7a8461257 |
+| 💼 LinkedIn | linkedin.com/in/yograj-yadav |
 | 💻 GitHub | github.com/yograj-vijay-yadav |
 | 🎯 LeetCode | leetcode.com/u/lMJ3FvRhmT |
 | 📚 GeeksforGeeks | geeksforgeeks.org/user/yograjyadav |
@@ -222,8 +224,10 @@
 
 ```python
 current_focus = {
-    "learning": ["TypeScript", "Next.js", "LangChain", "System Design"],
-    "building": "High Level Design Projects",
-    "improving": "DSA & Problem Solving Skills",
-    "next_goal": "Contribute to Open Source"
+    "learning": ["TypeScript", "Next.js", "LangGraph", "Advanced System Design"],
+    "loves": ["Low-Level Design (LLD)", "High-Level Design (HLD)"],
+    "building": "GenAI-powered full-stack applications",
+    "improving": "DSA & System Design problem solving",
+    "next_goal": "Contribute to Open Source (MERN + GenAI)"
 }
+```
