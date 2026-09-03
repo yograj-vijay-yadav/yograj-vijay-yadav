@@ -92,7 +92,7 @@
 
 ## 🚀 Featured Projects
 
-### [🎓 SimpliLearn — AI-Powered Learning Management System](https://github.com/yograj-vijay-yadav/Learning-Management-System)
+### [🎓 SimpliLearn — AI-Powered Learning Management System](https://lms-front-end-pied.vercel.app)
 *Aug 2025*
 > Full-stack LMS with a GenAI RAG chatbot for course-related Q&A
 
