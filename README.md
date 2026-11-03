@@ -1,233 +1,245 @@
-<h1 align="center">Hi 👋, I'm Yograj Vijay Yadav</h1>
+# Hi, I'm Yograj Vijay Yadav 👋
+
+### Software Engineer | Full Stack Developer | GenAI & Agentic AI | Open Source Contributor
+
+🎓 B.E. Information Technology @ PES Modern College of Engineering, Pune — 2027  
+💻 Building full-stack applications and scalable backend systems.  
+🤖 Exploring Generative AI, Agentic AI, LLM applications and multi-agent architectures.  
+🌍 Contributing to open-source projects across JavaScript, TypeScript and the WordPress ecosystem.
 
 <p align="center">
-  🎓 4th Year IT Engineering Student @ PES Modern College, Pune <br>
-  💻 MERN Stack Developer | 🤖 GenAI / RAG Builder | 🧩 System Design (LLD/HLD) Enthusiast | 🧠 DSA Practitioner
+  <a href="https://github.com/yograj-vijay-yadav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yograj-yadav-7a8461257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/lMJ3FvRhmT/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/yograjyadav/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yograj-vijay-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yograj-vijay-yadav?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=yograj-vijay-yadav&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/yograj-vijay-yadav?label=Followers&style=flat-square" alt="GitHub Followers"/>
 </p>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning: **Next.js & TypeScript** (fundamentals covered, now going deeper), **LangGraph**, **Advanced System Design**
-- 💻 I love building: **Full-stack MERN apps with GenAI/RAG features baked in**
-- 🗃️ Tech I'm confident with: **MongoDB, Express, React, Node.js, C++, SQL, Python, LangChain**
-- 🧩 What I genuinely love: **Low-Level Design (LLD) and High-Level Design (HLD)** — breaking systems down and designing them from scratch
-- 📫 How to reach me: `yograjyadav2004@gmail.com`
-- ⚡ Fun fact: **I taught Physics for a year while mastering coding!**
+I'm an Information Technology engineering student interested in building reliable software, designing backend systems and developing practical AI-powered applications.
 
----
+- 🚀 Building full-stack applications using React, Next.js, Node.js and Python.
+- 🤖 Exploring GenAI, Agentic AI, RAG architectures, AI agents and multi-agent workflows.
+- 🧩 Interested in System Design, including LLD, HLD, design patterns and scalable architectures.
+- 🌐 Exploring open-source development through production repositories and real-world code reviews.
+- 🐘 Working with WordPress and exploring PHP through open-source plugin codebases.
+- 🧠 Solved 200+ problems on LeetCode.
+- 📚 Previously worked as a Physics Instructor, teaching 50+ students.
 
-## 🧠 What I'm Up To
-
-- 🚀 Currently working on: **High-Level & Low-Level System Design, and GenAI-powered features**
-- 📘 Learning: **TypeScript, Next.js (post-basics), LangGraph, Advanced DSA**
-- 🤝 Looking to collaborate on: **Open source MERN + GenAI projects**
-- 📌 Ask me about: **Node.js, MongoDB, RAG/LangChain, System Design (LLD/HLD), DSA patterns, Express.js**
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | CGPA |
-|--------|------------|----------|------|
-| **B.E. Information Technology** | PES Modern College of Engineering, Pune | Nov 2023 – June 2027 | **8.56 / 10** |
+**Education:** B.E. Information Technology  
+**College:** PES Modern College of Engineering, Pune  
+**Graduation:** June 2027  
+**CGPA:** 8.56/10
 
 ---
 
-## 💻 Tech Stack
+## 🌍 Open Source Contributions
 
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+I enjoy exploring established codebases, understanding existing implementations, fixing bugs and contributing improvements through pull requests.
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Open Pull Requests
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+| Project | Contribution | Status |
+|---|---|---|
+| [10up/ElasticPress #4401](https://github.com/10up/ElasticPress/pull/4401) | Fix comma-separated WooCommerce taxonomy queries | 🟡 Open |
+| [Yoast/wordpress-seo #23759](https://github.com/Yoast/wordpress-seo/pull/23759) | Prevent duplicate content during `llms.txt` population | 🟡 Open |
+| [Meteor #14934](https://github.com/meteor/meteor/pull/14934) | Accept an initial object in the ReactiveDict TypeScript constructor | 🟡 Open |
 
-### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-FFC107?style=for-the-badge&logo=pinecone&logoColor=black)
+### WordPress & PHP Ecosystem
 
-### 🤖 GenAI / AI-ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**[rtMedia — Issue #2358](https://github.com/rtCamp/rtMedia/issues/2358)**
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- Investigated a potential script-localization issue in the WordPress plugin.
+- Explored PHP script-enqueueing and localization logic around `SCRIPT_DEBUG`.
+- Traced how localized PHP values are exposed to JavaScript.
+- Focused on validating the reported behavior before proposing a code change.
 
-### 🧩 System Design
-![LLD](https://img.shields.io/badge/Low--Level%20Design-6f42c1?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![HLD](https://img.shields.io/badge/High--Level%20Design-6f42c1?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-> I genuinely enjoy System Design — thinking through scalability, database schemas, API contracts (HLD) and then class-level structure, design patterns, and modularity (LLD).
+**Areas of interest:** WordPress plugin development, PHP, JavaScript, TypeScript, debugging, testing and maintainable code.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🎓 SimpliLearn — AI-Powered Learning Management System](https://lms-front-end-pied.vercel.app)
-*Aug 2025*
-> Full-stack LMS with a GenAI RAG chatbot for course-related Q&A
+### 🎓 NidhiSetu — AI-Powered Government Scheme Discovery Platform
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay, LangChain, Pinecone, Redis, BullMQ
+**Smart India Hackathon 2026 | Problem Statement: SIH26092**
 
-**Key Features:**
-- ✅ JWT authentication with role-based access control (RBAC) and 20+ REST APIs for users, courses, subscriptions & progress
-- 💳 Razorpay integration for subscription-based course access
-- 🖼️ Cloudinary + Multer for image/video upload and storage workflows
-- 🤖 Event-based AI-powered RAG chatbot (LangChain + Pinecone) answering questions using retrieved course content
-- ⚡ BullMQ + Redis for async video processing, email notifications, and RAG document ingestion
-- 🚀 Redis caching for frequently accessed app & AI data, plus centralized error handling and reusable middleware
+`Python` `FastAPI` `React.js` `LangChain` `LangGraph` `Pinecone` `MongoDB`
+
+- Building a multi-agent platform to discover eligible government loan schemes across 6 beneficiary categories.
+- Designed LangGraph workflows for user intake, eligibility reasoning and partner matching.
+- Implemented deterministic eligibility and EMI calculations independently of LLM reasoning.
+- Developed a Pinecone-based RAG pipeline with versioned SHA-256 chunk IDs and table-aware document parsing.
+- Added lexical evidence verification and Tavily-based fallback discovery.
+- Validated with 201 automated tests (199 passing, 2 gated live-integration tests) and 9/9 golden-case evaluations.
+
+### ⚡ SimpliLearn — AI-Powered Learning Management System
+
+[🌐 Live Demo](https://lms-front-end-pied.vercel.app)
+
+`React.js` `Node.js` `Express.js` `MongoDB` `LangChain` `Pinecone` `Redis` `BullMQ`
+
+- Built a full-stack learning management system with JWT authentication, RBAC and 20+ REST APIs.
+- Integrated Razorpay for subscription-based course access.
+- Developed an AI-powered chatbot using LangChain and Pinecone to answer questions from retrieved course content.
+- Implemented Redis and BullMQ for asynchronous video processing, email notifications and document ingestion.
+- Integrated Cloudinary and Multer for media uploads and storage.
+- Added caching, centralized error handling and reusable backend middleware.
+
+### 💻 CodeConnect — Real-Time Collaborative Coding Platform
+
+[🌐 Live Demo](https://codeconnect-chi.vercel.app)
+
+`Next.js` `WebSockets` `Socket.io` `MongoDB` `Python`
+
+- Developed a collaborative coding platform supporting up to 30 concurrent participants per room.
+- Implemented real-time code synchronization using Socket.io.
+- Improved synchronization latency by 40%.
+- Integrated AI-assisted debugging and contextual coding suggestions.
+- Designed reusable backend modules and event-driven communication.
+
+### 🧩 Pokedex — Pokémon Explorer
+
+[GitHub Repository](https://github.com/yograj-vijay-yadav/Pokedex-Project-React)
+
+`React.js` `REST APIs` `CSS3`
+
+- Built a Pokémon explorer with API integration and dynamic data rendering.
 
 ---
 
-### [💻 CodeConnect — Real-Time Collaborative Coding Platform](https://codeconnect-chi.vercel.app)
-*Dec 2025*
-> Real-time collaborative coding platform with AI-assisted debugging
+## 🛠️ Technical Skills
 
-**Tech Stack:** React.js, WebSockets (Socket.io), MongoDB, Python
+**Programming Languages**
 
-**Key Features:**
-- 🔄 Real-time multi-user code sync for up to 30 concurrent participants per room
-- 🔌 Socket.io-based real-time communication for code change synchronization
-- 🤖 AI-assisted coding workflow for error detection and contextual suggestions
-- 🧱 Reusable backend modules with event-driven communication for maintainable real-time interactions
+C++, Python, JavaScript, TypeScript, SQL, PHP (WordPress codebase exposure).
 
----
+**Frontend Development**
 
-### [🧩 Pokedex App](https://github.com/yograj-vijay-yadav/Pokedex-Project-React)
-> Pokemon explorer with API integration
+React.js, Next.js, Redux, HTML5, CSS3, Tailwind CSS.
 
-**Tech Stack:** React, REST API, CSS3
+**Backend Development**
+
+Node.js, Express.js, FastAPI, REST APIs, WebSockets, Socket.io, JWT, RBAC.
+
+**Databases & Caching**
+
+MongoDB, MySQL, Redis, Pinecone, ChromaDB.
+
+**GenAI & Agentic AI**
+
+Generative AI, LLM Application Development, LangChain, LangGraph, RAG, AI Agents, Multi-Agent Workflows, Tool Calling, Prompt Engineering, Embeddings, Vector Databases.
+
+**CMS & Open Source**
+
+WordPress, PHP, WordPress Plugin Codebases, Git, GitHub, Pull Requests, Code Review, Debugging and Testing.
+
+**DevOps & Tools**
+
+Docker, GitHub Actions, CI/CD, Postman, Cloudinary.
+
+**Computer Science & System Design**
+
+Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, Low-Level Design, High-Level Design, Design Patterns, API Design and Backend Architecture.
 
 ---
 
 ## 💼 Experience
 
-### Physics Instructor
-**Suprabhat Learning Centre, Pune** | *Oct 2024 – Oct 2025*
+### Physics Instructor | Suprabhat Learning Centre, Pune
 
-- 🎯 Taught physics to 50+ students, building structured approaches to problem solving and technical explanation
-- 🧠 Broke down complex concepts into step-by-step explanations, strengthening analytical reasoning
-- 🗣️ Mentored students individually and maintained consistent communication to support their learning progress
+*October 2024 – October 2025*
 
----
-
-## 📜 Certifications & Achievements
-
-| Certification / Achievement | Source | Details |
-|---|---|---|
-| **DSA in C++** | LeetCode | Solved 200+ problems — arrays, trees, graphs, recursion, DP |
-| **Python Programming** | Scaler (10 hrs) | Core Python concepts & problem solving |
-| **React.js** | Scaler (10 hrs) | Components, Hooks, Context API, routing |
+- Taught Physics to 50+ students using structured, step-by-step explanations.
+- Simplified complex concepts to strengthen analytical reasoning and problem-solving skills.
+- Mentored students individually and maintained consistent communication to support learning progress.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yograj-vijay-yadav&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yograj-vijay-yadav&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b6b&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj-vijay-yadav&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yograj-vijay-yadav&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yograj-vijay-yadav&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+- **Naukri Campus Young Turks 2026:** 99.46 percentile.
+- **Competitive Programming:** CodeChef highest rating 1305 (Div-4), global rank 63,427.
+- **LeetCode:** Solved 200+ problems covering arrays, trees, graphs, recursion and dynamic programming.
+- **DSA in C++:** College Wallah certification.
+- **Python Programming:** Scaler certification (10 hours).
+- **React.js:** Scaler certification (10 hours).
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yograj-vijay-yadav&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg"/>
+    <img src="./assets/overview.light.svg" alt="GitHub Statistics Overview" width="100%"/>
+  </picture>
 </p>
 
----
-
-## 🏆 Coding Profiles
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg"/>
+    <img src="./assets/momentum.light.svg" alt="GitHub Contribution Momentum Graph" width="100%"/>
+  </picture>
+</p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/lMJ3FvRhmT/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/yograjyadav" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://github.com/yograj-vijay-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg"/>
+    <img src="./assets/contributions.light.svg" alt="GitHub Contribution Calendar and Streaks" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg"/>
+    <img src="./assets/languages.light.svg" alt="GitHub Programming Language Distribution" width="100%"/>
+  </picture>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 💻 Coding Profiles
 
 <p align="center">
-  <a href="mailto:yograjyadav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://leetcode.com/u/lMJ3FvRhmT/">LeetCode</a> •
+  <a href="https://www.geeksforgeeks.org/user/yograjyadav/">GeeksforGeeks</a> •
+  <a href="https://github.com/yograj-vijay-yadav">GitHub</a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:yograjyadav8888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yograj-yadav-7a8461257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yograj-yadav-7a8461257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YograjVijay" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/yograj-vijay-yadav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 📌 Quick Links
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | yograjyadav2004@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/yograj-yadav |
-| 💻 GitHub | github.com/yograj-vijay-yadav |
-| 🎯 LeetCode | leetcode.com/u/lMJ3FvRhmT |
-| 📚 GeeksforGeeks | geeksforgeeks.org/user/yograjyadav |
-
----
-
-## 🎯 Current Focus
-
-```python
-current_focus = {
-    "learning": ["TypeScript", "Next.js", "LangGraph", "Advanced System Design"],
-    "loves": ["Low-Level Design (LLD)", "High-Level Design (HLD)"],
-    "building": "GenAI-powered full-stack applications",
-    "improving": "DSA & System Design problem solving",
-    "next_goal": "Contribute to Open Source (MERN + GenAI)"
-}
-```
+<p align="center">
+  <i>Building meaningful software, learning continuously and contributing to open source.</i>
+</p>
